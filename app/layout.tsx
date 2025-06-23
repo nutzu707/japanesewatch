@@ -9,7 +9,7 @@ const nunito = Nunito({
 
 
 export const metadata: Metadata = {
-  title: "Japan Flag Clock",
+  title: "Japanese Flag Clock",
 };
 
 export default function RootLayout({
